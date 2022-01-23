@@ -1,5 +1,5 @@
 # fabiogvb.github.io
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogvb&hide=html&layout=compact&theme=gruvbox)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogvb&hide=html&layout=compact&theme=gruvbox)](https://github.com/fabiogvb/)
 
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
